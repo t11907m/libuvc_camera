@@ -1,2 +1,2 @@
 # libuvc_camera
-otetawarakani
+oteyawarakani
